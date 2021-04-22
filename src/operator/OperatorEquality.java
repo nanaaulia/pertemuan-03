@@ -1,4 +1,4 @@
-package Operator;
+package operator;
 
 public class OperatorEquality {
     public static void main(String[] args){
